@@ -5,7 +5,7 @@
 ---
 
 **My Skills**
-<div >
+<div>
     <img align='left' alt='Python' width='60px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align='left' alt='Selenium' width='60px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
     <img align='left' alt='Pandas' width='60px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
@@ -17,6 +17,7 @@
     <img align='left' alt='mysql' width='60px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align='left' alt='sqlite' width='60px' style='padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
+<br>
 <br>
 
 ---
