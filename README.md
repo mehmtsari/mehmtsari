@@ -1,4 +1,4 @@
-<img src="banner.png" alt="banner" width="100%" height="auto" />
+<!--<img src="banner.png" alt="banner" width="100%" height="auto" />-->
 
 ---
 >Hello I am Mehmet. I am a Python programming language expert and I have developed myself in the field of software expertise. I am experienced in data collection and processing over the Internet. I can develop these with OpenCV, such as object recognition and table-bound scripting. With Flask Framework, I can design websites in any size you want. Also, seeing simple glances can help you. I give importance to customer satisfaction and that I can get support in your projects. I can complete your projects quickly and with investment by communicating.
